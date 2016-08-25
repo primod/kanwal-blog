@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://primod.github.io/kanwal-blog/"
+url: "http://primod.github.io/kanwal-blog/"
 baseurl: "/kanwal-blog"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://primod.github.io/kanwal-blog/gallery/"
-  - JOURNAL: "https://primod.github.io/kanwal-blog/journal/"
-  - ABOUT: "https://primod.github.io/kanwal-blog/about/"
+  - GALLERY: "http://primod.github.io/kanwal-blog/gallery/"
+  - JOURNAL: "http://primod.github.io/kanwal-blog/journal/"
+  - ABOUT: "http://primod.github.io/kanwal-blog/about/"
 
 # All translation keys
 translations:
